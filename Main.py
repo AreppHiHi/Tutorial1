@@ -3,7 +3,7 @@ import streamlit as st
 col1, col2 = st.columns([1, 3])
 
 with col1:
-    st.image("1 diagram.png", width=180)  # Replace with your image file name
+    st.image("WhatsApp Image 2025-10-04 at 20.26.39_393da4d3.jpg", width=180)  # Replace with your image file name
 
 with col2:
     st.title("Ariff Zakwan")
