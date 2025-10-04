@@ -1,10 +1,21 @@
 import streamlit as st
 
-st.title("Your Name's Resume")
-st.header("Contact Information")
-st.write("Email: your.email@example.com")
-st.write("Phone: (123) 456-7890")
-st.write("LinkedIn: linkedin.com/in/yourprofile")
+col1, col2 = st.columns([1, 3])
+
+with col1:
+    st.image("1 diagram.png", width=180)  # Replace with your image file name
+
+with col2:
+    st.title("Ariff Zakwan")
+    st.markdown("""
+    **📍 Location:** Johor, Malaysia  
+    **📧 Email:** ariffzakwan@example.com  
+    **📞 Phone:** +60 12-345 6789  
+    **🔗 LinkedIn:** [linkedin.com/in/ariffzakwan](https://linkedin.com/in/ariffzakwan)  
+    **💻 GitHub:** [github.com/ariffzakwan](https://github.com/ariffzakwan)
+    """)
+
+
 
 st.header("Education")
 st.write("Degree, University Name, Year")
