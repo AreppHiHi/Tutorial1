@@ -22,7 +22,7 @@ _Universiti Malaysia Kelantan (UMK)_ | 2022 – 2026
 """)
 
 st.header("Work Experience")
-st.write("Sorting , JnT, 2025")
+st.write("Sorting , JnT, 2024")
 st.write("- Sorted and organized parcels based on destination and delivery zones")
 st.write("- Scanned barcodes and updated delivery information in the system")
 
@@ -30,10 +30,6 @@ st.header("Skills")
 st.write("- IOT and Hardware")
 st.write("- Software Tool *Google Colab*")
 
-st.header("Education")
-st.markdown("""
-**Bachelor of Information Technologies with Honours (Artificial Intelligent)**  
-_Universiti Malaysia Kelantan (UMK)_ | 2022 – 2026  
-""")
+
 
 
