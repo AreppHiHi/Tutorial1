@@ -8,7 +8,7 @@ with col1:
 with col2:
     st.title("Ariff Zakwan")
     st.markdown("""
-    **📍 Location:** KeLANTAN, Malaysia  
+    **📍 Location:** Kelantan, Malaysia  
     **📧 Email:** S22B0022siswa@edu.my.com  
     **📞 Phone:** +60 1137309195
     **🔗 LinkedIn:** [linkedin.com/in/ariffzakwan](https://linkedin.com/in/ariffzakwan)  
